@@ -159,9 +159,18 @@ h2, h3 {
 
 .accordion-body {
   background-color: #161616;
+  color: #ccc;
   border-radius: 20px;
-  padding: 10px 10px;
-  margin: 30px 0;
+  padding: 10px;
+  margin: 18px 0;
+}
+
+.accordion-item{
+  background-color: #161616;
+  color: #ccc;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 18px 0;
 }
 
 
