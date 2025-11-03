@@ -146,6 +146,25 @@ h2, h3 {
   color: #9b59b6;
 }
 
+.acordion-button {
+  background-color: #1a1a1a;
+  color: #ccc;
+  border: none;
+}
+
+.accordion-button.collapsed {
+  background-color: #1a1a1a;
+  color: #ccc;
+}
+
+.accordion-body {
+  background-color: #161616;
+  border-radius: 20px;
+  padding: 10px 10px;
+  margin: 30px 0;
+}
+
+
 .steps .card {
   background-color: #1a1a1a;
   border: none;
